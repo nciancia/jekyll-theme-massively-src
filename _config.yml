@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+title:              엔시아의 소확행小確幸 라이프
+bio:                'Ncia 小確幸 little sure fortune Life'
+description:        "엔시아의 소확행 라이프 Ncia 小確幸 little sure fortune Life"
+locale:             ko_KR
+baseurl: "https://nciancia.github.io" # the subpath of your site, e.g. /blog
+url: "https://nciancia.github.io" # the base hostname & protocol for your site
 
 defaults:
 - scope:
